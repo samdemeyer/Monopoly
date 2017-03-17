@@ -1,2 +1,3 @@
 nieuwe lijn code
 //bugfix
+functie
